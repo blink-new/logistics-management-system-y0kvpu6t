@@ -10,7 +10,9 @@ import {
   Euro,
   Clock,
   MapPin,
-  AlertTriangle
+  AlertTriangle,
+  Building2,
+  Receipt
 } from 'lucide-react'
 
 const stats = [
